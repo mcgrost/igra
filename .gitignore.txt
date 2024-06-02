@@ -1,0 +1,16 @@
+# Ignore project-specific files
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.xcsettings
+*.idea/
+*.vs/
+*.vscode/
+*.sublime-*
+
+# Ignore intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
